@@ -327,16 +327,16 @@ def forest_room_8(counter, inventory, stats):
 		print "In your haste to get away, you don't look which way you were running",
 		direction=randint(1,4)
 		if direction==1:
-			choice=="left"
+			choice="left"
 			print " and you run to your %s." % choice
 		elif direction==2:
-			choice=="right"
+			choice="right"
 			print " and you run to your %s." % choice
 		elif direction==3:
-			choice=="backwards"
+			choice="backwards"
 			print " and you run to your %s." % choice
 		elif direction==4:
-			choice=="forwards"
+			choice="forwards"
 			print " and you run to your %s." % choice
 	else:
 		choice=get_str_response(m_prompt,responses)
