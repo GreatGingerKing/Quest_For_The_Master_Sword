@@ -1,0 +1,22 @@
+                 Welcome to
+       Quest for the Master(ful) Sword!
+           By: David Kolschowsky
+           /\                 //\\
+          /  \               //  \\
+         /    \             ||    ||
+        /      \            ||    ||
+       /        \           ||    ||
+      /__________\          ||    ||
+     /\          /\         ||    ||
+    /  \        /  \     ___||____||___
+   /    \      /    \          ||   
+  /      \    /      \         ||
+ /        \  /        \        ||
+/__________\/__________\       ||
+ 
+Ready yourself to enter the Forbidden Forest
+and begin your journey to find the almighty
+Master Sword and become the Hero of Legend.
+
+
+Press "Enter" To Begin or "Control-Z" to Quit
