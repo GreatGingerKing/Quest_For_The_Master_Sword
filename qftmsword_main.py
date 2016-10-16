@@ -307,7 +307,7 @@ def forest_room_8(counter, inventory, stats):
 	#place holder for Room into function
 	location=room_introduction()
 	l_prompt="It's time to move on from the %s, where will you go next?\n " % location
-	print "As you arrive in the %s you see some monsters up ahead. It's time to fight!"
+        print "As you arrive in the %s you see some monsters up ahead. It's time to fight!" % location
 	
 	responses={
 		"Help":["\nYour options are 1: Go Left","\t\t 2: Go Right","\t\t 3: Go Forwards", "\t\t 4: Go Backwards"],
